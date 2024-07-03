@@ -1,2 +1,2 @@
 # snakegame
-Snake console game
+WSAD for movement
